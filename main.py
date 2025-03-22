@@ -23,6 +23,7 @@ def print_banner():
 {Fore.YELLOW}[*] Efsanetr Bypass Script - Automated Registration
 [*] Developed for educational purposes only!
 [*] Use at your own risk.
+[*] Tool Shared By FORESTARMY and Thanks To ASHU XD
 ----------------------------------------------------{Style.RESET_ALL}
 """
     print(banner)
